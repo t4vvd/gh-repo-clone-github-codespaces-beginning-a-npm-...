@@ -1,2 +1,2 @@
 # gh-repo-clone-github-codespaces-beginning-a-npm-...
-Read  , Trade  - VRTC auto deriv bot 
+Read  , Trade  - VRC auto deriv bot 
